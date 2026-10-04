@@ -19,4 +19,6 @@ Open `index.html` in Chrome, Edge or Safari. An internet connection is needed to
 For all features (such as remembering your last playlist) serve it over http, for example with GitHub Pages:
 Settings > Pages > Deploy from a branch > `main` / root.
 
+https://kamalo-pk99.github.io/360Flow/
+
 Powered by Kamalo.
